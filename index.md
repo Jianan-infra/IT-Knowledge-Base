@@ -22,4 +22,3 @@ title: IT Knowledge Base
 - **Hardware / HPE**：[ProLiant ML30 Gen11 擴充與維護紀錄](docs/hardware/hpe/ml30-gen11/)
 
 > 所有範例均應去敏感化；請勿提交密碼、Private Key、Token Secret 或完整憑證。
-
